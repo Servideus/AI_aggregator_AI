@@ -1,3 +1,5 @@
+[Инструкция на русском языке здесь](README.ru.md).
+
 # AI news digest for Telegram
 
 A Python script that reads selected public Telegram channels, asks Gemini to select up to ten AI news items, and writes a Russian-language digest. It can also send the digest to a destination you configure. Yesterday's local digest is included for deduplication.
