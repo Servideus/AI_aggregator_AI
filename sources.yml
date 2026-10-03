@@ -1,0 +1,5 @@
+# Replace the placeholder with a public Telegram channel username.
+sources:
+  - username: example_public_channel
+    title: Example source
+    enabled: true

@@ -1,0 +1,4 @@
+telethon==1.36.0
+PyYAML==6.0.2
+python-dotenv==1.0.1
+google-genai>=1,<3
